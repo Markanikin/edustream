@@ -134,7 +134,7 @@ function App() {
             </div>
             
             <a 
-              href="https://send.monobank.ua/ЗАМІНИ_НА_СВОЄ" 
+              href="https://send.monobank.ua/jar/8LjZWeX9nK" 
               target="_blank" 
               className="px-4 md:px-8 py-2 md:py-3 font-black text-cyan-400 border border-cyan-500/30 rounded-full hover:bg-cyan-500/10 transition-all backdrop-blur-md uppercase text-[9px] md:text-[10px] tracking-[0.1em] md:tracking-[0.2em] whitespace-nowrap"
             >
